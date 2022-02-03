@@ -45,18 +45,22 @@ The application will start and indicate the server is running.
 * Route testing can be completed through Insomnia Core to test out the API routes in the `Controllers` folder.  
 * User Interface testing can be completed at the local host URL `http://localhost:3001/`
 
-3. The live version of this application is deployed at:  .  
+The live version of this application should look like:
+![image](https://user-images.githubusercontent.com/87677207/152344855-3fc084fd-1f8a-47f7-b7f5-aee2cbfc85c4.png).
+
+The live version should be at https://stark-depths-39218.herokuapp.com/.
+
 
 ## Contributing
 
 
 ## Tests
-This application uses Insomnia Core as a testing method for all API routes.
+This application uses Insomnia Core as a testing method at link http://localhost:3001/
 
 ## License
 
 
 ## Questions
-My GitHub username is `raymondjestrada`.  Please feel free to peruse my other projects.
+Please contact me through [Github](https://github.com/raymondjestrada) for any questions or comments.
 
   
