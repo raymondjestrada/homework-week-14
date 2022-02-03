@@ -54,7 +54,7 @@ The live version should be at https://stark-depths-39218.herokuapp.com/.
 This application uses Insomnia Core as a testing method at link http://localhost:3001/
 
 ## License
-
+This project is license under the MIT license.
 
 ## Questions
 Please contact me through [Github](https://github.com/raymondjestrada) for any questions or comments.
