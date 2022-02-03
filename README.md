@@ -18,14 +18,13 @@ To run this application, please do the following:
 1. Clone the application's respository from GitHub onto your local drive.  The GitHub URL is: https://github.com/raymondjestrada/homework-week-14-tech-blog.  
 2. Set up the ```npm``` package by running the following command in the root directory of the application: 
     
-    ```
-    npm install
-    ```
+ 
+`npm install`
+   
     
-    This will download the application's dependencies into your root directory.  You should now have a folder called `node_modules` and a file called `package-lock.json`.  The `package-lock.json` file should include bcrypt, connect-session-sequelize, dotenv, express, express-handlebars, express-session, mysql2, and sequelize.
+This will download the application's dependencies into your root directory.  You should now have a folder called `node_modules` and a file called `package-lock.json`.  The `package.json` file dependencies should include bcrypt, connect-session-sequelize, dotenv, express, express-handlebars, express-session, mysql2, and sequelize.
 
 3. A `.env` file will need to be created with the following code:
-
 
 `DB_NAME='tech_blog'`
 `DB_USER='root'`
